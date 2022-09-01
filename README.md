@@ -1,4 +1,4 @@
-This is to re-create the network of dietary factors and its associated heart disease to study which are the important nodes. It is networkx learning purpose
+This is to re-create the network of dietary factors and its associated heart disease to study which are the important nodes. It is for learning networkx purpose
 
 
 ```python
