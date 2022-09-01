@@ -636,7 +636,9 @@ bad_factors[0:20]
 ## A SYSTEMATIC COMPREHENSIVE LONGITUDINAL EVALUATION OF DIETARY FACTORS ASSOCIATED WITH ACUTE MYOCARDIAL INFARCTION AND FATAL CORONARY HEART DISEASE
 #### SOODABEH MILANLOUEI, GIULIA MENICHETTI, YANPING LI, JOSEPH LOSCALZO, WALTER C. WILLETT & ALBERT-LÁSZLÓ BARABÁSI
 <br>
-![png](image.png)
+
+![png](dietary-factors-assoc-heart-disease_files/image.png)
+
 <br>
 ##### The nodes of the graph are dietary exposures (circles) and cardiovascular diseases (diamonds) as two sets of nodes. Each studied association is shown by an edge whose color denotes the “direction” (i.e., positive or negative) of the association. Green and red links indicate negative and positive associations, respectively, between an exposure and a disease. Grey links denote associations that were studied but not found to be statistically significant. In the context of NHS, CHD refers to non-fatal MI and fatal coronary heart disease; also, coronary artery disease (CAD) refers to non-fatal MI and fatal coronary artery disease. Cardiovascular disease (CVD) is defined as a composite of coronary artery disease and non-fatal or fatal stroke. Source data are provided in Source Data - Figure 1.xlsx. The figure aims to illustrate the body of work derived from NHS data on cardiovascular diseases. A detailed comparison of the result of our analysis with previous NHS-related work and other findings in the literature is provided in the section “Comparison with the literature”.
 
